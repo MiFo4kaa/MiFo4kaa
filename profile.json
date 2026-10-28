@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "login": "MiFo4kaa",
+  "seed": "#5C7CFF",
+  "seedFromAvatar": false,
+  "scheme": "tonalSpot",
+  "motion": true,
+  "iconFill": true,
+  "order": [
+    "hero",
+    "socials",
+    "about",
+    "stack",
+    "projects",
+    "stats",
+    "streak",
+    "wave",
+    "buttons"
+  ],
+  "hidden": [
+    "streak",
+    "stats",
+    "projects"
+  ],
+  "hero": {
+    "greeting": "Йоу",
+    "name": "MiFo",
+    "subtitle": "",
+    "typing": true,
+    "avatarShape": "cookie12",
+    "chips": [
+      {
+        "icon": "location_on",
+        "label": "Russia"
+      },
+      {
+        "icon": "code",
+        "label": "Java, Python, SQL, Minecraft PaperAPI"
+      }
+    ]
+  },
+  "about": {
+    "title": "Обо мне",
+    "items": [
+      {
+        "icon": "person",
+        "label": "Java/Python junior-разработчик"
+      },
+      {
+        "icon": "acute",
+        "label": "В свободное время пишу плагины, сервисы для личного проекта"
+      },
+      {
+        "icon": "code",
+        "label": "В основном пишу бэк-энд"
+      }
+    ]
+  },
+  "stack": {
+    "title": "Tech stack",
+    "groups": [
+      {
+        "title": "Main",
+        "items": [
+          {
+            "icon": "brand:python",
+            "label": "Python"
+          },
+          {
+            "icon": "coffee",
+            "label": "Java"
+          },
+          {
+            "icon": "brand:javascript",
+            "label": "JavaScript"
+          }
+        ]
+      },
+      {
+        "title": "Tools",
+        "items": [
+          {
+            "icon": "brand:git",
+            "label": "Git"
+          },
+          {
+            "icon": "brand:linux",
+            "label": "Linux"
+          },
+          {
+            "icon": "brand:figma",
+            "label": "Figma"
+          }
+        ]
+      }
+    ]
+  },
+  "projects": {
+    "source": "pinned",
+    "repos": [],
+    "overrides": {},
+    "empty": "No description yet.",
+    "fork": "Fork"
+  },
+  "stats": {
+    "title": "GitHub activity",
+    "stars": "Stars earned",
+    "contributions": "Contributions this year",
+    "repos": "Public repos",
+    "followers": "Followers",
+    "calendar": "Last 21 days",
+    "weekdays": "SMTWTFS",
+    "languages": "Languages across my repositories",
+    "showLanguages": true
+  },
+  "streak": {
+    "title": "Streak",
+    "current": "Current streak",
+    "longest": "Longest this year",
+    "days": "days"
+  },
+  "socials": {
+    "items": [],
+    "variant": "chip",
+    "fill": "tonal",
+    "card": true
+  },
+  "buttons": {
+    "items": [
+      {
+        "icon": "desktop_windows",
+        "label": "Майнкрафт сервер",
+        "url": "https://discord.gg/rgxqrmSbJN",
+        "style": "filled"
+      },
+      {
+        "icon": "book_2",
+        "label": "Все репозитории",
+        "url": "https://github.com/MiFo4kaa?tab=repositories",
+        "style": "tonal"
+      }
+    ]
+  }
+}
